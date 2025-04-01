@@ -1,4 +1,4 @@
-The dataset is taken from Kaggle
+The dataset is taken from Kaggle. 
 Dataset is a weed dataset, Link is given below
 
 https://www.kaggle.com/datasets/jaidalmotra/weed-detection
